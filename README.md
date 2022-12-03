@@ -1,0 +1,1 @@
+This year I'm doing Advent of Code in rust for fun. I'm not going to bother competing for fastest solutions, just for improving my rust skills.
